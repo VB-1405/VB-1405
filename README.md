@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VB-1405
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web development and app development for both IOS and Android
+- 🌱 I’m currently learning Web Development
+- 🌱 I'm currently learning App Development for both iOS and Android
 - 💞️ I’m looking to collaborate on making startup ideas and new websites, applications
 - 📫 How to reach me vrishabhbhavsar@gmail.com
 
