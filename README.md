@@ -2,9 +2,11 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Web Development
 - 🌱 I'm currently learning App Development for both iOS and Android
+- 🌱 I'm cyrruntly learning how to analyse logs on a SIEM Tool and practicing Threat Hunting
 - 💞️ I’m looking to collaborate on making startup ideas and new websites, applications
 - 📫 How to reach me vrishabhbhavsar@gmail.com
 - 🏫 Studying BTech at Parul University
+- 👨🏻‍💼 Intern at TechDefence Labs
 
 <!---
 VB-1405/VB-1405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
