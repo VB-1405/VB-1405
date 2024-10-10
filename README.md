@@ -5,7 +5,8 @@
 - 🌱 I'm cyrruntly learning how to analyse logs on a SIEM Tool and practicing Threat Hunting
 - 💞️ I’m looking to collaborate on making startup ideas and new websites, applications
 - 📫 How to reach me vrishabhbhavsar@gmail.com
-- 🏫 Studying BTech at Parul University
+- 🏫 Completed BTech from Parul University
+- 🏫 Will pursue Master's from Cal State University
 - 👨🏻‍💼 Intern at TechDefence Labs
 
 <!---
