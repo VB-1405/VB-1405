@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @VB-1405
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Web Development
-- 🌱 I'm currently learning App Development for both iOS and Android
-- 🌱 I'm currently learning how to analyze logs on a SIEM Tool and practicing Threat Hunting
+- 🌱 I'm currently working on analyzing logs via a SIEM Tool and practicing Threat Hunting, while creating my own small level projects
 - 💞️ I’m looking to collaborate on making startup ideas, new websites, and applications, and discussing different attack patterns
-- 📫 How to reach me vrishabhbhavsar@gmail.com
+- 📫 Reach me at vrishabhbhavsar@gmail.com
 - 🏫 Completed BTech in Computer Science from Parul University
-- 🏫 Pursuing Master's in Cyber Security at Cal State University
+- 🏫 Pursuing Master's in Cyber Security at California State University
 
 <!---
 VB-1405/VB-1405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
